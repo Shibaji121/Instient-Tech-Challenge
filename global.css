@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --label-text: Inter;
+
+  /* font sizes */
+  --font-size-6xl: 25px;
+  --label-text-size: 18px;
+  --section-title-size: 40px;
+
+  /* Colors */
+  --button-text: #fff;
+  --button-affirm: #32c1ff;
+  --label-text: #c7c7c7;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-11xl: 30px;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+}
